@@ -1,0 +1,15 @@
+catkin_ws_server/build/
+catkin_ws_server/devel/
+catkin_ws_server/src/server/src/__pycache__/
+catkin_ws_server/src/server/src/lib/__pycache__/
+catkin_ws_server/.catkin_workspace
+catkin_ws_server/src/server/src/lib/Recognition/face_recognition/*
+catkin_ws_server/src/server/src/lib/Recognition/__pycache__
+
+catkin_ws_edge/build/
+catkin_ws_edge/devel/
+catkin_ws_edge/src/edge/src/__pycache__/
+catkin_ws_edge/src/edge/src/lib/__pycache__/
+catkin_ws_edge/src/edge/src/models/trt/*.trt
+catkin_ws_edge/.catkin_workspace
+catkin_ws_edge/.vscode/
