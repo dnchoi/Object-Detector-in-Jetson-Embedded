@@ -57,5 +57,5 @@ ffmpeg -f v4l2 -input_format yuyv422 -i /dev/video0 \
 					-f rtsp \
 					rtsp://{insert User IP:pocam
 
-# RTSP address -> rtsp://{User IP}/video (Do not insert port number).
+# RTSP address -> rtsp://{User IP}/video (Do not insert port number)
 ```
